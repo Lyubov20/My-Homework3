@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+textarea {
+    width: 300px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+}
